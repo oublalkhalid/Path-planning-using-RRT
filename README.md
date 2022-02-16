@@ -9,7 +9,7 @@ A report is available while asking for an access to khalid.oublal@polytechnique.
 
 ![Time complexity](images/heatmap_rrtstar.png)
 
-### Implementation of a simple variant of the OBRRT [(see paper)](docs/CONTRIBUTING.md)
+### Implementation of a simple variant of the OBRRT [(see paper)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.229.2825&rep=rep1&type=pdf)
 In this algorithm, the idea is to sample points taking into account the obstacles in order to
 increase the chances that the tree passes through difficult areas.
 

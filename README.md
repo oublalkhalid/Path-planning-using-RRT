@@ -5,6 +5,6 @@ A report is available while asking for an access to khalid.oublal@polytechnique.
 ### Time complexity for RRT
 ![Time complexity](images/heatmap_rrt.png)
 
-### Time complexity for RRT
+### Time complexity for RRT*
 
 ![Time complexity](images/heatmap_rrtstar.png)

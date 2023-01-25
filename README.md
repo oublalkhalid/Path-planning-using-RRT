@@ -44,8 +44,3 @@ increase the chances that the tree passes through difficult areas.
                       break
           return node
 ```
-
-- [x] Q1 (see report)
-- [x] Q2 (see report)
-- [x] Q3 (see report)
-- [x] Q4 (see report)

@@ -7,6 +7,8 @@ A report is available while asking for an access to khalid.oublal@polytechnique.
 
 ### Time complexity for RRT*
 
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/76509145/226109113-dee53ca1-98db-4721-bb12-6c2506065c4d.png">
+
 ![Time complexity](images/heatmap_rrtstar.png)
 
 ### Implementation of a simple variant of the OBRRT [(see paper)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.229.2825&rep=rep1&type=pdf)

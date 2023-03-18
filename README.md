@@ -2,12 +2,13 @@
 We present here, the different results and code created during practical work Planning Path using RTT.
 A report is available while asking for an access to khalid.oublal@polytechnique.edu 
 
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/76509145/226109113-dee53ca1-98db-4721-bb12-6c2506065c4d.png">
+
+
 ### Time complexity for RRT
 ![Time complexity](images/heatmap_rrt.png)
 
 ### Time complexity for RRT*
-
-<img width="524" alt="image" src="https://user-images.githubusercontent.com/76509145/226109113-dee53ca1-98db-4721-bb12-6c2506065c4d.png">
 
 ![Time complexity](images/heatmap_rrtstar.png)
 
